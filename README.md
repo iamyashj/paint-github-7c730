@@ -1,1 +1,2 @@
-# paint-github-7c730
+Hello 
+This is a temp repo
